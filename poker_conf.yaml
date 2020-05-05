@@ -1,0 +1,9 @@
+ai_players:
+- name: Monte_Carlo_Bot
+  path: C:\Users\Peter\Documents\IU\Classes\Spring2020\B351\Final_Project\MonteCarloBot.py
+ante: 0
+blind_structure: null
+initial_stack: 1000
+max_round: 10
+small_blind: 10
+

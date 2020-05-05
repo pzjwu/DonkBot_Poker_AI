@@ -1,0 +1,17 @@
+﻿Position,Action,Size,Prior,Outcome
+In_Position,raise,Large,Win,Win
+In_Position,raise,Large,Lose,Win
+In_Position,raise,Medium,Win,Win
+In_Position,raise,Medium,Lose,Lose
+In_Position,raise,Small,Win,Lose
+In_Position,raise,Small,Lose,Lose
+In_Position,call,N/A,Win,Win
+In_Position,call,N/A,Lose,Lose
+Out_Position,raise,Large,Win,Win
+Out_Position,raise,Large,Lose,Win
+Out_Position,raise,Medium,Win,Lose
+Out_Position,raise,Medium,Lose,Lose
+Out_Position,raise,Small,Win,Win
+Out_Position,raise,Small,Lose,Lose
+Out_Position,call,N/A,Win,Lose
+Out_Position,call,N/A,Lose,Lose
